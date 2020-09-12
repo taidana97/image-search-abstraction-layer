@@ -15,7 +15,7 @@
     "mocha": "^7.1.1",
     "mongodb": "^2.2.22",
     "dotenv": "^8.2.0",
-    "node-fetch": "^2.6.0",
+    "node-fetch": "^2.6.1",
     "body-parser": "^1.19.0"
   },
   "author": "White",
